@@ -1,4 +1,6 @@
 
+https://www.youtube.com/watch?v=wN3Dsn9pTz0
+
 
 ![bmp280 spi lcd 4 bit pi pico](https://github.com/offpic/BMP280-SPI-LCD-4-BIT-RASPBERRY-PI-PICO/assets/31142397/b1431273-5b32-4651-afaf-3d92725cc460)
 
